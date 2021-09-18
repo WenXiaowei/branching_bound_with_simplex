@@ -3,7 +3,7 @@
 ## [Simplex](simplex/simplex.py)
 Given a tableau, find the best assignments to the variables which gives the optimal solution. 
     
-## [Knap sack problem](branchingbound_knapsack_problem/knap_sack_problem.py)
+## [Knapsack problem](branchingbound_knapsack_problem/knap_sack_problem.py)
 Given a list of items, each one with an utility and weight, and a max amount of weight that we can carry, returns a list of items which sum of utility is the maximum possible. 
 
 
